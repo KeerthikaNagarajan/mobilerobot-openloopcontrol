@@ -147,7 +147,9 @@ Insert image here
 
 Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](https://youtube.com/shorts/rGaES8y8YOI?feature=share)(https://youtube.com/shorts/6M17PnnPTsA?feature=share)(https://youtube.com/shorts/t2oMGLYPrvE?feature=share)]
+[(https://youtube.com/shorts/rGaES8y8YOI?feature=share)]
+[(https://youtube.com/shorts/6M17PnnPTsA?feature=share)]
+[(https://youtube.com/shorts/t2oMGLYPrvE?feature=share)]
 
 
 ## Robot Start point:
